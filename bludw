@@ -1,0 +1,7 @@
+echo "# somethin" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/XDoctorNope72/somethin.git
+git push -u origin master
+https://discordapp.com/api/webhooks/663851837597810688/SFQcN-ODH846Hy_8gidAlDGFMFdXyQKieszTUTq_FKWxwiDMLj7mQUXcI6JmaCJDjSVD/github
